@@ -2,6 +2,12 @@
 What the project does
 This project explores Bike Riding Habits of biker riders in Edmonton
 
+Some Key Findings are:
+- Adults 30 and up are more likely to ride bikes.
+- Older adults 65 and up, as well as young adults, are least likely to ride bikes
+- Most riders in Edmonton ride for recreational and entertainment reasons rather than to commute
+- Those who earn $60,000 are the most likely to be riding bikes in Edmonton, according to this data set 
+
 Why the project is useful
 Can help map out ways to give support to people in order to encourage bike riding using demographic information
 
