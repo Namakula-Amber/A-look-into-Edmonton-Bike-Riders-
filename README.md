@@ -9,7 +9,7 @@ Some Key Findings are:
 - Those who earn $60,000 are the most likely to be riding bikes in Edmonton, according to this data set 
 
 Why the project is useful:
-These findings and the data can help map out ways to encourage bike riding in different demogrpahics 
+These findings and the data can help map out ways to encourage bike riding in different demographics 
 
 How users can get started with the project:
 Where the dataset is located: Edmonton Open Data Portal
@@ -19,6 +19,9 @@ Community Insight Members: 646
 Anonymous Respondents: 170
 
 Where users can get help with your project:
+- You can message me directly here, and I will do my best to respond. I am not used to GitHub but I will try my best.
+
+More ways to use the data:
 - Adding in more variables to consider
 - Utilizing and adding in larger data sets from Edmonton and or other cities in Alberta and Canada
   
