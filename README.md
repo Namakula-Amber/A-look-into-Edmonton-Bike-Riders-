@@ -8,11 +8,11 @@ Some Key Findings are:
 - Most riders in Edmonton ride for recreational and entertainment reasons rather than to commute
 - Those who earn $60,000 are the most likely to be riding bikes in Edmonton, according to this data set 
 
-Why the project is useful
-Can help map out ways to give support to people in order to encourage bike riding using demographic information
+Why the project is useful:
+These findings and the data can help map out ways to encourage bike riding in different demogrpahics 
 
 How users can get started with the project:
-Edmonton Open Data Portal is where the dataset is located
+Where the dataset is located: Edmonton Open Data Portal
 Original Data Set: “Bike Ridership - Edmonton Insight Community”
 Number of Respondents: 816
 Community Insight Members: 646
